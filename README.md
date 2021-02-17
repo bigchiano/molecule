@@ -1,0 +1,1 @@
+# molecoin-stake
