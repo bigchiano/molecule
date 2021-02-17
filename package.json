@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ochukochris/molecoin-stake/issues"
   },
-  "homepage": "https://github.com/ochukochris/molecoin-stake#readme"
+  "homepage": "https://github.com/ochukochris/molecoin-stake#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4.0"
+  }
 }
